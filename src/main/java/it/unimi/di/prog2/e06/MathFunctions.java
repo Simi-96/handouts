@@ -40,7 +40,7 @@ public class MathFunctions {
 
     // Provide an alternative implementation based on Newton's method.
     // Hint: https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
-    double i = 1;
-    return i;
+    double o = 1;
+    return o;
   }
 }
