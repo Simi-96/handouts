@@ -27,6 +27,10 @@ public class MathFunctions {
   /** . */
   private MathFunctions() {}
 
+  public static int main(String[] args) {
+    int i = 1;
+    return i;
+  }
   /* Specify and implement a method that given a positive number returns an approximation
    * of its square root.
    *
